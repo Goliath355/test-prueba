@@ -1,2 +1,3 @@
 "hola, este es mi primer fichero usando git." 
 Juan Jose es mi nombre
+Estoy aprendiendo a usar git
